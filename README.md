@@ -8,7 +8,7 @@
 
 
 
-https://github.com/leavingme/remotion-ai-remaster/assets/demo-preview.mp4
+https://github.com/leavingme/remotion-ai-remaster/raw/main/public/demo-preview.mp4
 
 
 
