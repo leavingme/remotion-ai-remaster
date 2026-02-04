@@ -4,6 +4,14 @@
 
 这是一个展示代码驱动视频制作（Programmatic Video Creation）能力的完整案例。
 
+## 项目展示
+
+https://github.com/leavingme/remotion-ai-remaster/assets/demo-preview.mp4
+
+项目通过左右分屏的方式，直观呈现了重制前后的效果差异：
+- **左侧 (Before)**：原始的低分辨率素材。
+- **右侧 (After)**：经过 video2x 修复、并融合了新版背景与动画的重制版本。
+
 ## 核心工作流与技术栈
 
 本项目整合了多种技术手段来优化素材并增强视觉表现：
@@ -22,12 +30,6 @@
         - 添加了动态背景（Pizza Party Theme）。
         - 实现了程序化的掉落动画（Falling Pizza Animation）。
         - 重新渲染了清晰的字幕层。
-
-## 项目展示
-
-项目通过左右分屏的方式，直观呈现了重制前后的效果差异：
-- **左侧 (Before)**：原始的低分辨率素材。
-- **右侧 (After)**：经过 video2x 修复、并融合了新版背景与动画的重制版本。
 
 ## 快速开始
 
@@ -70,6 +72,7 @@ npm run build
 - `public/`：包含原始视频、处理后的高清视频以及生成的字幕文件。
   - `Pizza Party...mp4`：原始视频（10MB）
   - `Pizza Party...processed.mp4`：video2x 处理后的高清版本（58MB，通过 Git LFS 管理）
+  - `demo-preview.mp4`：渲染后的对比演示视频（3.9MB）
 
 ## 许可证
 
