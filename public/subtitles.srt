@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:05,000
+Welcome to the Pizza Party program demonstration
+欢迎来到披萨派对程序演示
+
+2
+00:00:05,100 --> 00:00:10,000
+This is a command-line pizza ordering system
+这是一个命令行披萨订购系统
+
+3
+00:00:10,100 --> 00:00:15,000
+Let's see how it works
+让我们看看它是如何工作的
+
+4
+00:00:15,100 --> 00:00:20,000
+First, select your favorite pizza type
+首先，选择你喜欢的披萨类型
+
+5
+00:00:20,100 --> 00:00:25,000
+Then add toppings
+然后添加配料
+
+6
+00:00:25,100 --> 00:00:30,000
+Finally confirm the order
+最后确认订单
+
+7
+00:00:30,100 --> 00:00:35,000
+The system will calculate the total price
+系统会计算总价
+
+8
+00:00:35,100 --> 00:00:40,000
+And display order details
+并显示订单详情
+
+9
+00:00:40,100 --> 00:00:45,000
+This is the Pizza Party program
+这就是披萨派对程序
+
+10
+00:00:45,100 --> 00:00:50,000
+Thanks for watching the demo
+感谢观看演示

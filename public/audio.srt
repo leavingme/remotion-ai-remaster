@@ -1,0 +1,280 @@
+1
+00:00:01,580 --> 00:00:06,140
+Here we are at Michael Freeman, programmer of pizza party, and we're going to do an example.
+
+2
+00:00:07,680 --> 00:00:11,540
+So pizza party is command line software to order pizza.
+
+3
+00:00:12,340 --> 00:00:13,680
+Why don't we take a look at the help on?
+
+4
+00:00:13,960 --> 00:00:14,680
+Okay, here we go.
+
+5
+00:00:16,580 --> 00:00:18,500
+Here is the syntax of pizza party.
+
+6
+00:00:18,780 --> 00:00:18,840
+Yep.
+
+7
+00:00:19,340 --> 00:00:19,640
+Program.
+
+8
+00:00:20,260 --> 00:00:21,080
+The options.
+
+9
+00:00:21,500 --> 00:00:22,820
+How many pizzas?
+
+10
+00:00:23,400 --> 00:00:24,900
+What size and what kind of crust?
+
+11
+00:00:25,220 --> 00:00:26,600
+All right, so let's take a look at the flags.
+
+12
+00:00:27,740 --> 00:00:31,520
+Here is username password for your dominoes account.
+
+13
+00:00:32,340 --> 00:00:36,480
+Input file, which allows you to order pizzas in batch if you're throwing a pizza party.
+
+14
+00:00:37,520 --> 00:00:40,880
+Vervose, quiet, and force, our typical command line arguments.
+
+15
+00:00:41,160 --> 00:00:42,200
+All right, standard Unix stuff.
+
+16
+00:00:42,360 --> 00:00:43,200
+Standard Unix stuff.
+
+17
+00:00:43,920 --> 00:00:45,240
+And here's some of the flags.
+
+18
+00:00:46,220 --> 00:00:49,780
+Onions, screen peppers, mushrooms, olives, tomatoes, pineapple.
+
+19
+00:00:50,440 --> 00:00:52,600
+Of course, if you haven't noticed yet, these are the toppings.
+
+20
+00:00:52,600 --> 00:00:58,660
+Cheddar cheese, pepperoni, sausage, ham, bacon, ground beef, grilled chicken, anchovies, and extra sauce.
+
+21
+00:00:59,140 --> 00:01:01,640
+So why don't we order a pizza?
+
+22
+00:01:01,840 --> 00:01:02,200
+Here you go.
+
+23
+00:01:02,440 --> 00:01:03,040
+What do you want on it?
+
+24
+00:01:04,260 --> 00:01:04,720
+Pepperoni?
+
+25
+00:01:05,360 --> 00:01:05,680
+Uh-huh.
+
+26
+00:01:06,440 --> 00:01:06,900
+Mushrooms?
+
+27
+00:01:07,380 --> 00:01:07,740
+Yep.
+
+28
+00:01:08,100 --> 00:01:08,560
+Anything else?
+
+29
+00:01:09,060 --> 00:01:09,960
+No, that's cool.
+
+30
+00:01:10,220 --> 00:01:10,500
+How many?
+
+31
+00:01:11,120 --> 00:01:11,800
+Just one.
+
+32
+00:01:12,280 --> 00:01:12,560
+Uh-huh.
+
+33
+00:01:12,680 --> 00:01:13,040
+What size?
+
+34
+00:01:13,740 --> 00:01:14,140
+Medium.
+
+35
+00:01:15,460 --> 00:01:16,520
+And what kind of crust?
+
+36
+00:01:17,040 --> 00:01:18,140
+Hmm, thin.
+
+37
+00:01:18,560 --> 00:01:19,040
+Thin crust.
+
+38
+00:01:19,240 --> 00:01:19,880
+Okay, here we go.
+
+39
+00:01:21,860 --> 00:01:23,940
+All right, so here's our confirmation.
+
+40
+00:01:24,600 --> 00:01:25,560
+1248 is your price.
+
+41
+00:01:25,560 --> 00:01:25,960
+Are you ready?
+
+42
+00:01:26,100 --> 00:01:26,340
+Yeah.
+
+43
+00:01:27,320 --> 00:01:27,980
+There you go.
+
+44
+00:01:28,340 --> 00:01:28,700
+All right.
+
+45
+00:01:29,160 --> 00:01:30,980
+And then it bumps us back to the command line.
+
+46
+00:01:31,700 --> 00:01:33,060
+You know, ready for fun stuff.
+
+47
+00:01:33,420 --> 00:01:34,820
+Yeah, so let's see what time it is.
+
+48
+00:01:37,620 --> 00:01:38,960
+All right, so 621.
+
+49
+00:01:39,300 --> 00:01:41,080
+So we'll see if the pizza comes in a half hour.
+
+50
+00:01:41,140 --> 00:01:42,100
+Oh, there we go.
+
+51
+00:01:42,500 --> 00:01:43,980
+See if the pizza comes in a half hour.
+
+52
+00:01:44,920 --> 00:01:45,400
+All right.
+
+53
+00:01:45,520 --> 00:01:45,920
+I'm hungry.
+
+54
+00:01:45,920 --> 00:01:46,520
+All right.
+
+55
+00:01:48,420 --> 00:01:48,960
+All right.
+
+56
+00:01:52,520 --> 00:01:52,920
+Hello.
+
+57
+00:01:53,360 --> 00:01:53,800
+There we go.
+
+58
+00:01:54,640 --> 00:01:55,400
+What do you guys want?
+
+59
+00:01:55,660 --> 00:01:57,280
+It comes to 1248.
+
+60
+00:01:57,440 --> 00:01:57,660
+Thank you.
+
+61
+00:01:58,400 --> 00:01:59,540
+How much more back to it, right?
+
+62
+00:02:00,560 --> 00:02:00,960
+1248.
+
+63
+00:02:01,360 --> 00:02:01,920
+Five up.
+
+64
+00:02:03,020 --> 00:02:04,020
+Oh, thin crust.
+
+65
+00:02:04,580 --> 00:02:05,120
+Oh, nice.
+
+66
+00:02:05,240 --> 00:02:05,620
+I never had.
+
+67
+00:02:06,200 --> 00:02:06,740
+Oh, wow.
+
+68
+00:02:06,920 --> 00:02:07,340
+Yeah, right?
+
+69
+00:02:07,500 --> 00:02:07,820
+It's good.
+
+70
+00:02:08,500 --> 00:02:08,780
+Yeah.
+
